@@ -1,6 +1,6 @@
 # 👋  Hi there, I'm Dorian Duraku
 
-![gif]([https://j.gifs.com/KeZjQ8.gif])
+![nom_du_gif](https://j.gifs.com/KeZjQ8.gif)
 
 I'm passionate about artificial intelligence and cybersecurity, finding joy in exploring these ever-evolving fields. With a love for programming and a fascination for astrophysics and mathematics, I strive to contribute meaningfully to technological advancements. Welcome to my GitHub portfolio!
 
