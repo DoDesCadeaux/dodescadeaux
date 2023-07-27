@@ -1,4 +1,4 @@
-# 👋  Hi there, I'm Dorian Duraku
+# 👋🏻 Hi there, I'm Dorian Duraku 🚀
 
 ![nom_du_gif](https://j.gifs.com/KeZjQ8.gif)
 
