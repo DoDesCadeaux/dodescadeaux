@@ -1,6 +1,6 @@
 # 👋🏻 Hi there, I'm Dorian 🚀
 
-![nom_du_gif](https://j.gifs.com/KeZjQ8.gif)
+![nom_du_gif]([https://j.gifs.com/KeZjQ8.gif](https://media4.giphy.com/media/Q8JEIbgrSIpqFm6fem/giphy.gif?cid=ecf05e47dsoroc21cguafp2l5jakcov6m4efknp0caqodx20&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 
 I'm passionate about artificial intelligence and cybersecurity, finding joy in exploring these ever-evolving fields. With a love for programming and a fascination for astrophysics and mathematics, I strive to contribute meaningfully to technological advancements. Welcome to my GitHub portfolio!
 
