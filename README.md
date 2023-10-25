@@ -1,6 +1,6 @@
 # 👋🏻 Hi there, I'm Dorian 🚀
 
-![nom_du_gif]()
+![nom_du_gif](interstellar.gif)
 
 I'm passionate about artificial intelligence and cybersecurity, finding joy in exploring these ever-evolving fields. With a love for programming and a fascination for astrophysics and mathematics, I strive to contribute meaningfully to technological advancements. Welcome to my GitHub portfolio!
 
