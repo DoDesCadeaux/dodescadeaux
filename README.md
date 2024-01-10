@@ -31,5 +31,4 @@ I invite you to have a look at my repositories, almost all of them are public, f
 ## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dorian-duraku/)](https://www.linkedin.com/in/dorian-duraku/)
-[![Outlook](https://img.shields.io/badge/-dorian.duraku@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dorian.duraku@hotmail.com)
 
