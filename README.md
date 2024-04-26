@@ -2,17 +2,17 @@
 
 ![nom_du_gif](interstellar.gif)
 
-I'm passionate about artificial intelligence and cybersecurity, finding joy in exploring these ever-evolving fields. With a love for programming and a fascination for astrophysics and mathematics, I strive to contribute meaningfully to technological advancements. Welcome to my GitHub portfolio!
+I'm passionate about artificial intelligence, finding joy in exploring this ever-evolving field. With a love for programming and a fascination for astrophysics and mathematics, I strive to contribute meaningfully to technological advancements. Welcome to my GitHub portfolio!
 
 ## 🛠️ Technologies and Tools
 
-- Programming Languages: C, C++, Python, Swift
-- Tools: Kali, Bash, Assembly
+- Programming Languages: C, C++, Python
+- Tools: Neovim, Jupyter Notebook
 
 ## 📚 Education
 
 - Bachelor in Physics (BA-PHYS) with an emphasis in Astrophysics at ULB (Université libre de Bruxelles)
-- Software Engineering and Computer Science at 19 (42 Network)
+- Software Engineering and Computer Science at Campus 19 (42 Network)
 
 ## 📂 Projects
 
@@ -22,9 +22,11 @@ I invite you to have a look at my repositories, almost all of them are public, f
 
 - French
 - English
+- Learning Japanese
 
 ## 🎯 Hobbies
 
+- Karting
 - Climbing
 - Boxing
 
