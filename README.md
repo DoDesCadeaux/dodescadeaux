@@ -15,6 +15,10 @@ I'm passionate about artificial intelligence, finding joy in exploring this ever
 - Software Engineering and Computer Science at Campus 19 (42 Network)
 - Currently doing a Master's Degree in Artificial Intelligence and Databases at Campus 19 (42 Network)
 
+## 🏢 Company
+
+Co-Founder at Hargile Innovative Solutions, Lead ML/AI Developer.
+
 ## 📂 Projects
 
 I invite you to have a look at my repositories, almost all of them are public, feel free to explore!
