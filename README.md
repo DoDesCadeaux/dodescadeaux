@@ -12,8 +12,8 @@ I'm passionate about artificial intelligence, finding joy in exploring this ever
 ## 📚 Education
 
 - Bachelor in Physics (BA-PHYS) with an emphasis in Astrophysics at ULB (Université libre de Bruxelles)
-- Software Engineering and Computer Science at Campus 19 (42 Network)
-- Currently doing a Master's Degree in Artificial Intelligence and Databases at Campus 19 (42 Network)
+- Software Engineering and Computer Science at 42 Belgium
+- Currently doing a Master's Degree in Artificial Intelligence and Databases at 42 Belgium
 
 ## 🏢 Company
 
