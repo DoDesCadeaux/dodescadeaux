@@ -17,7 +17,7 @@ I'm passionate about artificial intelligence, finding joy in exploring this ever
 
 ## 🏢 Company
 
-Co-Founder at Hargile Innovative Solutions, Lead ML/AI Developer.
+Co-Founder and CTO at HARGILE, Lead ML/AI Engineer.
 
 ## 📂 Projects
 
